@@ -1,0 +1,9 @@
+PÁGINA AMISTAD CON PROPÓSITO — 08/08/2026
+
+1. Abre index.html con Live Server o con el navegador.
+2. Clave: 08082026.
+3. Coloca tus 7 fotografías reales en assets/fotos con los nombres foto1.jpg a foto7.jpg.
+4. Las fotos 6 y 7 incluidas son marcadores temporales; reemplázalas. Las primeras cinco provienen del paquete anterior y también puedes reemplazarlas.
+5. No cambies los nombres ni las rutas de index.html, style.css o script.js.
+6. Para publicar en Netlify, sube la carpeta completa o el ZIP.
+7. Las estrellas se generan con JavaScript y los botones cambian de color al pasar el cursor o pulsarlos.
